@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "python-docker"
+version = "0.1.0"
+description = ""
+authors = ["robinson.ramm.lovatto <robinson.ramm.lovatto@oracle.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+streamlit = "^1.33.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
