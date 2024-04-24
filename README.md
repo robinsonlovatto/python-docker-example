@@ -1,3 +1,6 @@
+# Python Docker Example
+A simple project that creates a Streamlit page to learn Docker.
+
 ## Starting the project from scratch
 ```bash
 pyenv local 3.12.1   
